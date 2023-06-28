@@ -2,6 +2,7 @@ package data;
 
 public enum Language {
     EN("en"),
+    ES("es"),
     DE("de");
     String lang;
 
