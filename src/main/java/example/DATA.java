@@ -1,2 +1,5 @@
-package example;public class DATA {
+package example;
+
+public class DATA {
+    public static int i=0;
 }
